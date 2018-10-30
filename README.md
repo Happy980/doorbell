@@ -24,6 +24,7 @@ annotations and metadata to a Firebase database where it can be viewed by a comp
 - Firebase project with Database and Storage
 - The following individual components:
     - 1 push button
+    - 1 Android Things Kit
     - 1 resistor
     - jumper wires
     - 1 breadboard
